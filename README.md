@@ -43,6 +43,12 @@ And one operand operations:
 
 9. The user can change the operation before entering the input for the new operand
 
+## Sample Runs:
+![Overview](https://github.com/MohamedMamdouh18/Calculator-Web-App/blob/main/CaculatorFrontend/SampleRuns/Capture.PNG)
+
+![Result](https://github.com/MohamedMamdouh18/Calculator-Web-App/blob/main/CaculatorFrontend/SampleRuns/Capture1.PNG)
+
+![Dividing By Zero](https://github.com/MohamedMamdouh18/Calculator-Web-App/blob/main/CaculatorFrontend/SampleRuns/Capture3.PNG)
 
 ## Further help
 
