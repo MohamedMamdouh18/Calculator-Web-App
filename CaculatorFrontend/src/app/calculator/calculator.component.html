@@ -1,0 +1,37 @@
+<div class="Container">
+  <div class="Calculator">
+    <div class="calculator__display">
+      <div class="display__input" [textContent]="output_num"></div>
+      <div class="display__output" [textContent]="input_num"></div>
+    </div>
+    <button (click)="one_way_operation('Percentage' , false)">%</button>
+    <button (click)="deleting_function('last_operand')">CE</button>
+    <button (click)="deleting_function('all_history')">C</button>
+    <button (click)="deleting_function('last_char')">⌫</button>
+
+    <button (click)="one_way_operation('Invert', false)">1/x</button>
+    <button (click)="one_way_operation('Square', false)">x²</button>
+    <button (click)="one_way_operation('Sqrt', false)">√x</button>
+    <button (click)="two_way_operation('Div' , '÷')">÷</button>
+
+    <button (click)="change_input_screen('7')">7</button>
+    <button (click)="change_input_screen('8')">8</button>
+    <button (click)="change_input_screen('9')">9</button>
+    <button (click)="two_way_operation('Mult' , '*')">*</button>
+
+    <button (click)="change_input_screen('4')">4</button>
+    <button (click)="change_input_screen('5')">5</button>
+    <button (click)="change_input_screen('6')">6</button>
+    <button (click)="two_way_operation('Sub' , '-')">-</button>
+
+    <button (click)="change_input_screen('1')">1</button>
+    <button (click)="change_input_screen('2')">2</button>
+    <button (click)="change_input_screen('3')">3</button>
+    <button (click)="two_way_operation('Add' , '+')">+</button>
+
+    <button (click)="one_way_operation('Change_Sign', true)">+/-</button>
+    <button (click)="change_input_screen('0')">0</button>
+    <button (click)="change_input_screen('.')">.</button>
+    <button (click)="equal()">=</button>
+  </div>
+</div>

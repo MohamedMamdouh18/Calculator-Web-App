@@ -1,0 +1,6 @@
+body{
+  height: 100vh;
+  width: 195vh;
+  overflow: hidden;
+  background: linear-gradient(#21b8f3, #e91e63);
+}
