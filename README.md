@@ -2,15 +2,15 @@
 
 The app was made with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1, and Spring Boot version 2.5.7 [Spring Boot](https://start.spring.io/).
 
-##Overview:
+## Overview:
 
 This is Calculator web application by angular framework and spring boot. It allows to make several operations but give you the result every time you enter for new operand
 
-##Setup & ports:
+## Setup & ports:
 -	For Front-end, it is on port **4200
 -	For Back-end, it is on port **8080
 
-##Operations & Features:
+## Operations & Features:
 The calculator supports basic operations. I classified them into two operands operations:
 -	Addition 
 -	Subtraction
@@ -23,7 +23,7 @@ And one operand operations:
 -	Square root
 -	Squaring 
 
-##User Guide:
+## User Guide:
 1. For using the web app, you can use your first operand then second operand then the operation.
 
 2. If you selected new operation the result of last calculation is stored and will be calculated in the new operation as first operand and the user enter the second operand.
