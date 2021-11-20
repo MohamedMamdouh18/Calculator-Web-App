@@ -1,6 +1,6 @@
 # Calculator-Web-App
 
-The app was made with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1, and Spring Boot version 2.5.7 [Spring Boot](https://start.spring.io/).
+The app was made with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1, and Spring Boot version 2.5.7 with JAVA [Spring Boot](https://start.spring.io/).
 
 ## Overview:
 
