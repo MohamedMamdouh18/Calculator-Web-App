@@ -7,8 +7,8 @@ The app was made with [Angular CLI](https://github.com/angular/angular-cli) vers
 This is Calculator web application by angular framework and spring boot. It allows to make several operations but give you the result every time you enter for new operand
 
 ## Setup & ports:
--	For Front-end, it is on port **4200
--	For Back-end, it is on port **8080
+-	For Front-end, it is on port **4200**
+-	For Back-end, it is on port **8080**
 
 ## Operations & Features:
 The calculator supports basic operations. I classified them into two operands operations:
