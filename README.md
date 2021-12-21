@@ -2,7 +2,7 @@
 
 The app was made with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1, and Spring Boot version 2.5.7 with JAVA [Spring Boot](https://start.spring.io/).
 
-## Overview:
+## Overview :
 
 This is Calculator web application by angular framework and spring boot. It allows to make several operations but give you the result every time you enter for new operand
 
